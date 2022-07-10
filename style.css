@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+
+  }
+
+h2{
+  font-size: 1.50rem;
+  font-family: 'Montserrat', sans-serif;
+
+  font-weight: normal;
+}
+
+h3,a{
+ font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 150px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.mountain {
+  margin-bottom: -203px;
+}
+
+.top-container {
+  background-color: #D3EBCD;
+  position: relative;
+  padding: 200px;
+}
+
+.middle-container {
+  background-color: #AEDBCE;
+}
+
+.bottom-container {
+  background-color: #839AA8;
+}
+
+
+.profile{
+  width: 50%;
+  margin:auto;
+}
+
+.ritesh{
+  border-radius: 62.5rem;
+  margin-top: 10px;
+  width: 25%;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.website{
+  width: 18%;
+  float: left;
+  margin-right: 30px;
+}
+
+.test{
+  width: 15%;
+  float: right;
+}
